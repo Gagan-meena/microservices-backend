@@ -1,4 +1,4 @@
-# playwiseTask
+# microservices-based user management and post creation system
 
 cd users
  npm install
